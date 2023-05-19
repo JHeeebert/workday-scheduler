@@ -1,6 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  line-height: 1.25;
 }
 
 textarea {
@@ -10,6 +11,17 @@ textarea {
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
+}
+
+
+.top-text {
+  text-align: center;
+  background-color: transparent;
+  color: #000000;
+  padding: 20px;
+  border-bottom: 8px solid black;
+
+
 }
 
 .description {
