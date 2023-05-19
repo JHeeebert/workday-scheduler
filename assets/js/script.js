@@ -1,10 +1,10 @@
-$(document).ready(function () {
-  // Code to display the current date in the header of the page
-  var today = dayjs().format("[Today is ] dddd MMMM D YYYY");
-  $("#currentDay").text(today);
-  var time = dayjs().format("[The time right now is ] hh:mm");
-  $("#currentTime").text(time);
+// Code to display the current date in the header of the page
+var today = dayjs().format("[Today is ] dddd MMMM D YYYY");
+$("#currentDay").text(today);
+var time = dayjs().format("[The time right now is ] hh:mm");
+$("#currentTime").text(time);
 
+$(document).ready(function () {
   // saveBtn click listener
   $(".saveBtn").on("click", function () {
     //get values from HTML.
