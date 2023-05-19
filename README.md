@@ -1,4 +1,4 @@
- # 🧪 workday-scheduler 🧪
+ # 🧪 Workday-Scheduler 🧪
 Workday-Scheduler Challenge for UNCC Coding Bootcamp
 ## ✔️ Task
 
