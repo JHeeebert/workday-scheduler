@@ -16,10 +16,10 @@ You'll need to use the [Day.js](https://day.js.org/en/) library to work with dat
 
 
 ## 🔗 Link to Repo
-[https://github.com/JHeeebert/code-quiz]
+[https://github.com/JHeeebert/workday-scheduler]
 
 ## 🔗 Link to Deployed Site
-[https://jheeebert.github.io/code-quiz/]
+[https://jheeebert.github.io/workday-scheduler/]
 
 ## 🫶 Contributors
 Joshua Hebert
